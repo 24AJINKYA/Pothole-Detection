@@ -1,5 +1,5 @@
 
-# PrePothole Detection using YOLOv8
+# Pothole Detection using YOLOv8
 This repository contains the implementation of an object detection model specifically designed for pothole detection. The model is trained using the YOLOv8s architecture, which is selected for its balance of speed and accuracy.
 
 ## Model Overview
