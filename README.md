@@ -89,7 +89,7 @@ Augmentation:
 **Inference:** Run the trained model on the test set or new images/videos to detect potholes.
 
 #
-#### If you want to  Train the model in the Google collab which is a opensoource and free platform which provides a good Computational power then just make a new notebook in the collab and then you can start the training and testing , validation by using the same code provided here in collab also. Connect runtime to T4 GPU it will provide a faster speed for computation.
+#### If you want to  Train the model in the Google collab which is a opensource and free platform which provides a good Computational power then just make a new notebook in the collab and then you can start the training and testing , validation by using the same code provided here in collab also. Connect runtime to T4 GPU it will provide a faster speed for computation.
 
 
 
