@@ -5,6 +5,8 @@ This repository contains the implementation of an object detection model specifi
 ## Model Overview
 YOLOv8 offers multiple model variants (s, n, l, x), each catering to different use cases based on computational resources and performance needs. For this project, we have employed the YOLOv8s model, which is optimized for faster inference while maintaining good detection accuracy.
 
+![Screenshot 2024-07-29 132455](https://github.com/user-attachments/assets/d306312c-b928-44ec-8f2f-ed6898be32c3)
+#
 ## Dataset
 The dataset used for training the model is compiled from various sources:
 •	Kaggle: A collection of publicly available images.
@@ -17,7 +19,8 @@ The dataset used for training the model is compiled from various sources:
 
 •	**Early Stopping**: The model training uses the patience parameter set to 5, which means training stops if there is no improvement in the validation metrics for 5 consecutive epochs.
 
-•	**Weights Storage**: Upon completion of training, the model stores the final weights in the best.pt file located in the weights section.
+•	**Weights![Screenshot 2024-07-29 132455](https://github.com/user-attachments/assets/5b9e8195-dad8-4623-80af-3b911dd4ec88)
+ Storage**: Upon completion of training, the model stores the final weights in the best.pt file located in the weights section.
 
 #
 The trained model can accurately detect potholes in various conditions, providing a reliable solution for road safety and maintenance applications.
