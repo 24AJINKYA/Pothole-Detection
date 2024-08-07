@@ -1,5 +1,5 @@
 #Step 1: Install the library
-pip install ultralytics
+!pip install ultralytics
 #step 2 : Import Packages
 from ultralytics import YOLO
 
