@@ -11,7 +11,7 @@ YOLOv8 offers multiple model variants (s, n, l, x), each catering to different u
 The dataset used for training the model is compiled from various sources:
 •	Kaggle: A collection of publicly available images.
 •	Locality: Images captured from local areas to add diversity and real-world scenarios to the dataset.
-
+For Training Purpose a Custom dataset is used including images from kaggle as well as some other images .
 ## Training Details
 •	**Image Size**: 640x640 pixels
 
