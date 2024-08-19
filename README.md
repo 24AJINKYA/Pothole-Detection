@@ -93,6 +93,8 @@ Augmentation:
 #
 #### If you want to  Train the model in the Google collab which is a opensource and free platform which provides a good Computational power then just make a new notebook in the collab and then you can start the training and testing , validation by using the same code provided here in collab also. Connect runtime to T4 GPU it will provide a faster speed for computation.
 
+### For more info about the how we can train the Object detection models on colab do visit : https://docs.ultralytics.com/
+
 
 
 
